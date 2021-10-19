@@ -1,2 +1,2 @@
 # DEMO CI
-[![CircleCI](https://circleci.com/gh/nguyentu43/demo.svg?style=shield)]()
+[![CircleCI](https://circleci.com/gh/nguyentu43/demo-ci.svg?style=shield)]()
